@@ -19,7 +19,7 @@ AI Subtitle Translator
 - Concurrency Limit (parallel batches): 一次发起的AI翻译任务数，也就是线程数。
 - Test AI provider: 先测试通过才能开始翻译，可通过修改constants.ts中内容设置默认值。
 
-![image](https://github.com/user-attachments/assets/c9308671-36d9-4e65-9d5d-9a2c76ef95ec)
+![image](https://github.com/user-attachments/assets/a2de69d6-667b-458b-a0be-fe7bb742e6d7)
 
 
 ## Tips
