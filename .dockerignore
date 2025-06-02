@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output (not strictly necessary for dev server, but good practice)
+dist
+build
+
+# IDE / Editor
+.vscode
+.idea
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Local environment files - these should be passed at runtime if needed
+# .env.local
+# .env.*.local
+# 如果你确实希望将 .env 文件复制到镜像中（不推荐用于敏感数据），
+# 请从此文件中移除或注释掉它们。
