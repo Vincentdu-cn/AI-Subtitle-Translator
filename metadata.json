@@ -1,0 +1,6 @@
+{
+  "name": "AI Subtitle Translator",
+  "description": "Upload SRT or ASS subtitle files, configure a custom AI translation service, and translate them segment by segment with progress tracking and download capabilities.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
